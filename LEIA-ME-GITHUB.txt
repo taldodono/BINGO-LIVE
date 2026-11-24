@@ -1,0 +1,13 @@
+BINGO LIVE — pacote inicial para GitHub
+
+ATENÇÃO: este é um protótipo inicial, ainda não é um aplicativo completo nem um APK testado.
+
+O arquivo .github/workflows/android-apk.yml configura uma tentativa de compilação automática no GitHub Actions. A compilação pode revelar erros que precisarão ser corrigidos antes de instalar o APK.
+
+Depois de enviar TODOS os arquivos e pastas deste pacote para a raiz do repositório BINGO-LIVE:
+1. Abra a aba Actions do repositório.
+2. Se aparecer a opção, habilite os workflows.
+3. Abra “Build BINGO LIVE APK” e toque em Run workflow (ou aguarde o build disparado pelo envio).
+4. Quando terminar com sucesso, abra a execução e baixe o artefato “BINGO-LIVE-debug-apk”.
+
+Não envie senhas, tokens ou códigos de autenticação.
